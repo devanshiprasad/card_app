@@ -1,4 +1,4 @@
-# i_am_amazing
+# card_app
 
 My second flutter app.
 
